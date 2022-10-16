@@ -20,6 +20,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <h1>Trav Counter</h1>
         <button onClick={this.increase} className="counter">
           +
         </button>
