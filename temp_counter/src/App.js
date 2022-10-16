@@ -18,7 +18,7 @@ const App = () => {
   };
 
   const decreaseTemp = () => {
-    //if (tempValue === -100) return;
+    //  if (tempValue === -100) return;
 
     const newLowerTemp = tempValue - 10;
 
